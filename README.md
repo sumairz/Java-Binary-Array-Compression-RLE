@@ -5,3 +5,8 @@ The good thing is that after compression of the binary index we can query the co
 We achieved around 75% of compression compared with binary index file.
 
 I haven't tested this algorithm in many cases so I can say it just fulfilled my need for the assignment but anyone can try and welcome to improve the algorithm
+
+<h2>Available Mehtods</h2><br/>
+<b>compressArray()</b><br/>
+<b>decompressArray()</b><br/>
+<b>getLineNumber()</b><br/>
